@@ -1,1 +1,0 @@
-This ML program is designed to develop a predictive model for a Combined Cycle Power Plant (CCPP). This program uses a dataset containing 9568 data points collected over six years when the power plant was operating at full load. The goal of the program is to predict the net hourly electrical energy output (EP) of the plant based on various ambient variables.
